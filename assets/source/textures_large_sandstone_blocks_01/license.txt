@@ -1,0 +1,6 @@
+Title: Large Sandstone Blocks 01
+Author: Poly Haven (Rob Tuytel)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/large_sandstone_blocks_01
+File: https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/large_sandstone_blocks_01/large_sandstone_blocks_01_diff_1k.jpg
+Downloaded: 2026-11-27 (1k JPG diffuse only)

@@ -1,0 +1,5 @@
+Title: Namaqualand Boulders 01
+Author: Poly Haven (Greg Zaal, Jenelle van Heerden)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/namaqualand_boulders_01
+Downloaded: 2026-11-27 (glTF, 1k textures)

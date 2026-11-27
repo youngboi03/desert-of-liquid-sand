@@ -1,0 +1,21 @@
+# build output
+build/
+cmake-build-*/
+.idea/
+
+# course deliverables and recordings (submitted separately)
+video/
+submission/
+report/
+docs/
+fr.png
+
+# raw downloads: keep only each asset's licence file
+assets/source/**
+!assets/source/*/
+!assets/source/*/license.txt
+
+# Blender working files
+blender/*.blend
+blender/*.blend1
+blender/backup/

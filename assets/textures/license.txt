@@ -1,0 +1,9 @@
+Textures used by the program (loaded from this folder at run time)
+
+sand_diff.jpg, sand_nor_gl.jpg
+  "Aerial Beach 01" by Poly Haven (https://polyhaven.com/a/aerial_beach_01)
+  License: CC0 (public domain). 2K JPG diffuse + OpenGL normal map, downloaded 23 Nov 2026.
+
+galaxy.jpg
+  "The Milky Way panorama" (eso0932a) by ESO/S. Brunier (https://www.eso.org/public/images/eso0932a/)
+  License: Creative Commons Attribution 4.0 International. Downscaled from 6000x3000 to 4096x2048.

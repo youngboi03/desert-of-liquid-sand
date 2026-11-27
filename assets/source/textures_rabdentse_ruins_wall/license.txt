@@ -1,0 +1,6 @@
+Title: Rabdentse Ruins Wall
+Author: Poly Haven (Amal Kumar)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/rabdentse_ruins_wall
+File: https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rabdentse_ruins_wall/rabdentse_ruins_wall_diff_1k.jpg
+Downloaded: 2026-11-27 (1k JPG diffuse only)

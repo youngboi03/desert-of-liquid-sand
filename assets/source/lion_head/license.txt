@@ -1,0 +1,5 @@
+Title: Lion Head
+Author: Poly Haven (Tina)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/lion_head
+Downloaded: 2026-11-27 (glTF, 1k textures)

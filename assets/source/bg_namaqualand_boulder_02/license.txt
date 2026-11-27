@@ -1,0 +1,5 @@
+Title: Namaqualand Boulder 02
+Author: Poly Haven (Greg Zaal, Rico Cilliers)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/namaqualand_boulder_02
+Downloaded: 2026-11-27 (glTF, 1k textures)

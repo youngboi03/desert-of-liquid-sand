@@ -1,0 +1,6 @@
+Title: Sandstone Cracks
+Author: Poly Haven (Rob Tuytel)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/sandstone_cracks
+File: https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sandstone_cracks/sandstone_cracks_diff_1k.jpg
+Downloaded: 2026-11-27 (1k JPG diffuse only)

@@ -1,0 +1,5 @@
+Title: Rock 07
+Author: Poly Haven (Jenelle van Heerden)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/rock_07
+Downloaded: 2026-11-27 (glTF, 1k textures)

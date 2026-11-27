@@ -1,0 +1,6 @@
+Title: Old Sandstone 02
+Author: Poly Haven (Dimitrios Savva)
+License: CC0 1.0 Universal (public domain)
+Source: https://polyhaven.com/a/old_sandstone_02
+File: https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/old_sandstone_02/old_sandstone_02_diff_1k.jpg
+Downloaded: 2026-11-27 (1k JPG diffuse only)
